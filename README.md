@@ -1,3 +1,5 @@
+![css color maker](https://github.com/marjan-ahmed/CSS-Color-Maker/assets/159646510/97fd0773-cef3-4867-bf34-be51a8533032)
+
 # CSS-Color-Maker
 The topic covers the basic CSS colors and background properties.
 
